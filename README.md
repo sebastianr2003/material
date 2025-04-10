@@ -1,3 +1,2 @@
-# material
-- [ ] mandar link de git hub
-- [ ] hacer python tarea 0
+## contenido de la materia estructura de datos 1
+:D
